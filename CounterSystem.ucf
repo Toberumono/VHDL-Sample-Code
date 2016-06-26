@@ -1,0 +1,32 @@
+NET "Clock" LOC = "V10";
+
+NET "output(0)" LOC = "T17";
+NET "output(1)" LOC = "T18";
+NET "output(2)" LOC = "U17";
+NET "output(3)" LOC = "U18";
+NET "output(4)" LOC = "M14";
+NET "output(5)" LOC = "N14";
+NET "output(6)" LOC = "L14";
+
+NET "hours(0)" LOC = "U16";
+NET "hours(1)" LOC = "V16";
+NET "hours(2)" LOC = "U15";
+NET "hours(3)" LOC = "V15";
+NET "hours(4)" LOC = "M11";
+NET "hours(5)" LOC = "N11";
+NET "hours(6)" LOC = "R11";
+
+NET "counting_direction" LOC = "T5";
+
+NET "anodes(0)" LOC = "N16";
+NET "anodes(1)" LOC = "N15";
+NET "anodes(2)" LOC = "P18";
+NET "anodes(3)" LOC = "P17";
+NET "DP" LOC = "M13";
+
+NET "Set" LOC = "B8";
+
+NET "up" LOC = "A8";
+NET "down" LOC = "C9";
+NET "left" LOC = "C4";
+NET "right" LOC = "D9";

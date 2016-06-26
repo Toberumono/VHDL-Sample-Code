@@ -1,0 +1,15 @@
+NET "SelR" LOC="C4";
+NET "RWR" LOC="B8";
+
+NET "inputr(0)" LOC = "T5";
+NET "inputr(1)" LOC = "V8";
+NET "inputr(2)" LOC = "U8";
+NET "inputr(3)" LOC = "N8";
+NET "inputr(4)" LOC = "M8";
+NET "outputr(0)" LOC = "T11";
+NET "outputr(1)" LOC = "R11";
+NET "outputr(2)" LOC = "N11";
+NET "outputr(3)" LOC = "M11";
+NET "outputr(4)" LOC = "V15";
+NET "outputr(5)" LOC = "U15";
+NET "outputr(6)" LOC = "V16";

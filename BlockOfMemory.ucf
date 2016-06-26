@@ -1,0 +1,20 @@
+NET "input(0)" LOC = "T5";
+NET "input(1)" LOC = "V8";
+NET "input(2)" LOC = "U8";
+NET "input(3)" LOC = "N8";
+NET "input(4)" LOC = "M8";
+NET "output(0)" LOC = "T11";
+NET "output(1)" LOC = "R11";
+NET "output(2)" LOC = "N11";
+NET "output(3)" LOC = "M11";
+NET "output(4)" LOC = "V15";
+NET "output(5)" LOC = "U15";
+NET "output(6)" LOC = "V16";
+NET "SelTest" LOC = "U16";
+
+NET "selection(0)" LOC = "V9";
+NET "selection(1)" LOC = "T9";
+NET "selection(2)" LOC = "T10";
+
+NET "Sel" LOC = "C4";
+NET "ReadWrite" LOC = "B8";
